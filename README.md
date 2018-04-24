@@ -1,4 +1,3 @@
-#2Help Server
 ![Kitura](https://raw.githubusercontent.com/IBM-Swift/Kitura/master/Documentation/KituraLogo.png)
 
 [![Build Status - Master](https://travis-ci.org/IBM-Cloud/Kitura-Starter.svg?branch=master)](https://travis-ci.org/IBM-Cloud/Kitura-Starter)
