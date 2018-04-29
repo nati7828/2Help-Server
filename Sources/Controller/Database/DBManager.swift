@@ -9,9 +9,9 @@ class DBManager{
     static public func start(){
         if dbConnection == nil{
             let HOST = "eu-cdbr-sl-lhr-01.cleardb.net"
-            let USER = "b0f35264eecf9f"
-            let PASSWORD = "d9ff9302"
-            let DATABASE = "ibmx_9c7dd3225c8f81b"
+            let USER = ""
+            let PASSWORD = ""
+            let DATABASE = "ibmx_9c7dd3225c8f81a"
             let PORT = 3306
             
             dbConnection = MySQLThreadSafeConnection(host: HOST, user: USER, password: PASSWORD, database: DATABASE, port: PORT)
